@@ -5,6 +5,6 @@ Currently finishing my Bachelor's Degree in Computer Science and looking to impr
 
 - Most profficient in Python.
 - Interested in UI, UX and Data Analysis.
-- Basic knowledge of C, Java, SQL, HTML, CSS, Javascript, React.
+- Experience with C, Java, SQL, HTML, CSS, Javascript, React.
 - Intersted in bulding apps and solutions to optimize processes and user experience. 
 
